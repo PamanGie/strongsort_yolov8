@@ -3,6 +3,8 @@
 ## Overview
 This project implements StrongSORT object tracking using YOLOv8 for object detection, integrated via BoxMOT library.
 
+![OC-SORT Tracking Demo]((https://i.postimg.cc/sgk0CM1P/Screenshot-2025-04-03-114555.png))
+
 ## Prerequisites
 
 ### System Requirements
