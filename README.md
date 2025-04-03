@@ -69,7 +69,7 @@ tracker = StrongSORT('osnet_x0_25_msmt17.pt')
 - Cross-version compatibility challenges
 
 ## License
-This project follows the licensing terms of the [BoxMOT repository](https://github.com/noahcao/BoxMOT). 
+This project follows the licensing terms of the [BoxMOT repository](https://github.com/mikel-brostrom/boxmot). 
 Please refer to the original BoxMOT repository for detailed licensing information.
 
 ## Contribution
