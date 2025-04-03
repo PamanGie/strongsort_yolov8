@@ -28,7 +28,7 @@ The project requires the following libraries:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/strongsort-yolov8.git
+git clone https://github.com/[your-username]/strongsort_yolov8.git
 cd strongsort-yolov8
 ```
 
